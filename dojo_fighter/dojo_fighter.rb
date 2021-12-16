@@ -34,7 +34,7 @@ while true do
         
     end
     if input == "run"
-        puts "run bitch"
+        puts "chose to run"
        if rand(100) > 60
             puts "No fight tonight"
            
